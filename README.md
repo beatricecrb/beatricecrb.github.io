@@ -1,2 +1,2 @@
 # beatricecrb.github.io
-My Portfolio WEbsite
+My Portfolio Website
