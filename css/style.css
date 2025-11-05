@@ -33,7 +33,7 @@ li {
 nav {
 	width: 70%;
 	position: relative;
-	left: 700px;
+	right: 20px;
 }
 a {
 	text-decoration: none;
