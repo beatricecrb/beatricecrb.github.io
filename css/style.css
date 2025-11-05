@@ -4,8 +4,13 @@ body {
   background: #f0ffff;
   color: #333;
 }
-h1 { color: #2c3e50; }
+h1 { 
+  color: #2c3e50; 
+}
 .container {
-  max-width: 800px; margin: auto; padding: 20px; background: white; border-radius: 10px;
-  background: #ffffff;
+  max-width: 800px; 
+  margin: auto; 
+  padding: 20px; 
+  background: white; 
+  border-radius: 10px;
 }
