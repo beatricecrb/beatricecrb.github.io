@@ -55,8 +55,9 @@ a {
 	color: #55688B;
 }
 img {
-	width 20px;
-	height: 20px;
+	width 30px;
+	height: 30px;
+	border-radius: 20px 20px 20px 20px;
 }
 button {
 	color: #F5F5F5;
